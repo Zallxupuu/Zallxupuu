@@ -56,6 +56,13 @@
   </a>
 </p>
 
+### 🐍 My Snake Commit
+
+<p align="center">
+  <img src="./snake.gif" alt="GitHub Snake Commit"/>
+</p>
+
+
 
 ---
 
