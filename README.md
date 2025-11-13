@@ -68,9 +68,19 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zallxupuu&theme=tokyonight" alt="GitHub Streak Stats" /><br/><br/>
-  
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="60" alt="pacman eating" />
-  <img src="https://komarev.com/ghpvc/?username=Zallxupuu&style=flat-square&color=yellow" alt="Profile views" />
-  <img src="https://badges.pufler.dev/commits/monthly/Zallxupuu?color=yellow&style=flat-square" alt="Total commits" />
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="60" alt="pacman right" />
 </p>
+
+### 🟡 Pac-Man Snake Commit
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Zallxupuu&show_icons=true&theme=tokyonight" width="500"/>
+
+  <!-- Pac-Man overlay GIF -->
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30" style="position:relative; top:-50px; left:10px" alt="pacman eating" />
+</p>
+
+<p align="center">
+  Pac-Man is eating your daily commits! 🍒
+</p>
+
