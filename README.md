@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Rizal 👋</h1>
 
-<!--
-**Zallxupuu/Zallxupuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 <b>Frontend Developer</b> | 🎨 <b>UI/UX Enthusiast</b> | ⚡ <b>Always Learning</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🌱 Currently learning **React.js**, **Tailwind CSS**, and **Laravel API integration**
+- 💼 Building mini projects to improve my **frontend and API skills**
+- 🚀 Passionate about creating **clean, responsive, and user-friendly web apps**
+- 🎯 Goal: Become a **Full Stack Developer**
+
+---
+
+### 🔨 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 💼 Featured Project
+
+#### 🧾 **Frontend Pegawai App**
+> A simple CRUD web app built with React.js, Tailwind CSS, and Laravel REST API.  
+> Features: Add, view, and manage employee data in a modern UI.
+
+🔗 **Demo (coming soon)**  
+📂 [View Source Code](#) ← (ganti dengan URL repo proyek kamu)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RizalXIRPL1&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizalXIRPL1&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### ☕ Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RizalXIRPL1&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <i>“Code is like humor — when you have to explain it, it’s bad.”</i> 😄
+</p>
