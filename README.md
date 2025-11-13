@@ -30,15 +30,14 @@
 > Features: Add, view, and manage employee data in a modern UI.
 
 🔗 **Demo (coming soon)**  
-📂 [View Source Code](#) ← (ganti dengan URL repo proyek kamu)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizalXIRPL1&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizalXIRPL1&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zallxupuu&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zallxupuu&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -49,10 +48,10 @@
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:zallrpl@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
+  <a href="https://instagram.com/sunnyset.k" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -60,7 +59,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RizalXIRPL1&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Zallxupuu&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
