@@ -66,19 +66,10 @@
   <i>“Code is like humor — when you have to explain it, it’s bad.”</i> 😄
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zallxupuu&theme=tokyonight" alt="GitHub Streak Stats" /><br/><br/>
-</p>
-
-### 🐍 My Snake Commit
-
-<p align="center">
-  <!-- Snake-style contribution graph -->
-  <img src="https://ghchart.rshah.org/Zallxupuu" alt="Snake Commit Graph" width="600"/>
-</p>
-
-<p align="center">
-  Keep coding, keep moving! 💻
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
