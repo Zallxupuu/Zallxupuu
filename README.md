@@ -56,9 +56,6 @@
   </a>
 </p>
 
-### 🎧 Recently Played on Spotify
-
-[![Spotify Recently Played](https://spotify-readme.vercel.app/api?user=313p5b3an555qnfds47k3flxljxm&theme=dark&count=5)](https://open.spotify.com/user/313p5b3an555qnfds47k3flxljxm)
 
 ---
 
