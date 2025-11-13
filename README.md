@@ -40,9 +40,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zallxupuu&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Commit Graph
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Commit activity graph](https://activity-graph.herokuapp.com/graph?username=Zallxupuu&theme=github)
 
 ---
 
