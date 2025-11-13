@@ -15,5 +15,5 @@ jobs:
       - name: Generate Snake Commit GIF
         uses: qrohlf/snake-game-from-github-contribution-grid@main
         with:
-          
+          github_token: ${{ secrets.SECRETCODE }}
           output_path: 'snake.gif'
