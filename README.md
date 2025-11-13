@@ -70,17 +70,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zallxupuu&theme=tokyonight" alt="GitHub Streak Stats" /><br/><br/>
 </p>
 
-### 🟡 Pac-Man Snake Commit
+### 🐍 My Snake Commit
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Zallxupuu&show_icons=true&theme=tokyonight" width="500"/>
-
-  <!-- Pac-Man overlay GIF -->
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30" style="position:relative; top:-50px; left:10px" alt="pacman eating" />
+  <!-- Snake-style contribution graph -->
+  <img src="https://ghchart.rshah.org/Zallxupuu" alt="Snake Commit Graph" width="600"/>
 </p>
 
 <p align="center">
-  Pac-Man is eating your daily commits! 🍒
+  Keep coding, keep moving! 💻
 </p>
+
 
