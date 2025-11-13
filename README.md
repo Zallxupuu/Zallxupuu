@@ -42,7 +42,8 @@
 
 ## 🔥 GitHub Commit Graph
 
-![Commit activity graph](https://activity-graph.herokuapp.com/graph?username=Zallxupuu&theme=github)
+  ![Commit activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zallxupuu&theme=tokyo-night)
+
 
 ---
 
