@@ -1,0 +1,19 @@
+name: Snake Commit Generator
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Update tiap hari jam 00:00 UTC
+  workflow_dispatch:     # Bisa dijalankan manual
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Commit GIF
+        uses: qrohlf/snake-game-from-github-contribution-grid@main
+        with:
+          github_token: ${{ secrets.SECRETCODE }}
+          output_path: 'snake.gif'
