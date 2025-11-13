@@ -38,7 +38,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zallxupuu&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zallxupuu&layout=compact&theme=tokyonight" height="150"/>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
 </p>
+## 📈 Commit activity
+
 
 ---
 
