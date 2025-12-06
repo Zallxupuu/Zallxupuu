@@ -1,72 +1,101 @@
-<h1 align="center">🌙 Welcome — Zallxupuu</h1>
-
-<p align="center">
-  <img src="https://media.tenor.com/GLPNGRkVjXwAAAAj/anime-chill.gif" width="420" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=24&duration=3000&pause=1000&color=A9A9FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Laravel+%7C+React+%7C+API;Dark+Minimalist+Enjoyer+🌙" />
-</p>
-
----
-
-## 🖤 About Me
-Hi, I’m **Zallxupuu**, a calm, detail-oriented fullstack developer.
-
-- 🌙 Main Stack → **Laravel (API)** & **ReactJS**
-- 🧩 Focus → Auth, Middleware, API Tokens
-- 🎨 UI → Tailwind, Minimal UI, Smooth UX
-- 🎧 Vibes → coding at night with anime lofi
-
----
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,react,js,tailwind,html,css,mysql,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Stats
 <div align="center">
+  
+  <h2>Hi there, i'm Rizal</h2>
+  <p><em>A child who dreams of being able to do everything</em></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zallxupuu&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zallxupuu&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+<p align="center">
+<img src="./.github/workflows/Komi.gif" width="720" height="300"/>
+</p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Zallxupuu&color=7aa2f7&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Zallxupuu?style=flat-square&color=7aa2f7&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/Zallxupuu?style=flat-square&color=7aa2f7&labelColor=0d1117)
+
+
+**Want to be Full-Stack Web Developer**  
+_Laravel · React · REST API · Clean Code Enthusiast_
+
+---
+
+### 🌙 About Me
+
+In the liminal space between twilight and dawn, I write code.  
+Each line a brushstroke, each function a verse—  
+seeking elegance in simplicity, beauty in logic.
+
+A developer wandering through frameworks and philosophies,  
+forever learning, forever evolving.  
+This is my journey. This is my craft.
+```javascript
+const developer = {
+  name: "Rizal A.K.A Jull",
+  currentFocus: "Building dreams with code",
+  mindset: "Amarte a ti mismo no es vanidad, es cordura."
+};
+```
+
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### ⭐ Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,tailwindcss,html,css" height="50" />
+</p>
+
+### 🗃️ Database & Backend Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="50" />
+</p>
+
+### 🧰 Tools & Environment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman,ubuntu" height="50" />
+</p>
+
+---
+
+## 🌌 Crafting Myself Into a Better Programmer  
+> *Learning in public • searching for inspiration • growing 1% with every commit*
+
+- 🧠 **Stay Curious** — ask *“why?”* before *“how?”*.  
+- ⚡ **Keep Learning** — exploring Laravel, React, clean API architecture, and new ideas.  
+- 🧩 **Solve Problems, Not Syntax** — understand the flow, not just the code.  
+- 🔍 **Build in Public** — small projects, experiments, failures… all part of the journey.  
+- 🎯 **Clean, Readable, Maintainable** — clarity is more powerful than complexity.  
+- 🌱 **Inspired by Progress** — bugs, errors, late-night debugging… fuel for improvement.  
+
+> ✦ *Code isn’t just written — it evolves.*  
+> ✦ *And so do I.*
+
+
+---
+
+### 📊 GitHub Stats
+
+[![Zallxupuu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zallxupuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9b1d6&icon_color=7aa2f7&text_color=c0caf5)](https://github.com/Zallxupuu)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zallxupuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9b1d6&text_color=c0caf5)](https://github.com/Zallxupuu)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Zallxupuu&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=f7768e&currStreakLabel=a9b1d6)](https://github.com/Zallxupuu)
+
+
+---
+
+## 🔗 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zallxupuu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sunnyset.k)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@zskyfall.low)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Rizallulz)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zrill__)
+
+---
+<strong>Thanks for visiting my profile! 🌙</strong>  
+<p align="center">
+<img src="./.github/workflows/Kaori.gif" width="720" height="300"/>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%">
 </div>
-
----
-
-## 🌸 Anime Aesthetic Corner
-<p align="center">
-  <img src="https://media.tenor.com/7N0I3Dkz2GkAAAAC/anime-girl.gif" width="330" />
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/Bb0xcdv1CkEAAAAC/chill-anime.gif" width="330" />
-</p>
-
----
-
-## 🚀 Projects (Coming Soon)
-- 🔐 Laravel API Authentication  
-- ⚡ React Frontend consuming Laravel API  
-- 🌙 Fullstack minimalist projects  
-
----
-
-## 🌐 Connect
-<p align="left">
-  <a href="https://github.com/Zallxupuu">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>“Build quietly. Improve consistently.”</i>
-  <br><br>
-  <img src="https://media.tenor.com/fA7H-yKBdNMAAAAC/anime-cat.gif" width="160" />
-</p>
