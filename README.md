@@ -1,11 +1,11 @@
 <h1 align="center">🌙 Welcome — Zallxupuu</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/HLx6k1WZVJkAAAAC/chill-anime.gif" width="460" />
+  <img src="https://media.tenor.com/GLPNGRkVjXwAAAAj/anime-chill.gif" width="420" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3500&color=A8A9FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Laravel+%7C+React+%7C+API+Builder;Clean+Code+Enjoyer;Dark+Minimalist+Vibes+🌙" />
+  <img src="https://readme-typing-svg.demolab.com?size=24&duration=3000&pause=1000&color=A9A9FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Laravel+%7C+React+%7C+API;Dark+Minimalist+Enjoyer+🌙" />
 </p>
 
 ---
@@ -14,14 +14,13 @@
 Hi, I’m **Zallxupuu**, a calm, detail-oriented fullstack developer.
 
 - 🌙 Main Stack → **Laravel (API)** & **ReactJS**
-- 🛠 Backend Focus → Authentication, Middleware, API Tokens
-- 🎨 Frontend Focus → Tailwind, Minimal UI, Smooth animations
-- 🧩 Favorite flow → “Backend API → React Frontend”
-- 🎧 Vibes → Dark room, anime lo-fi, clean code energy
+- 🧩 Focus → Auth, Middleware, API Tokens
+- 🎨 UI → Tailwind, Minimal UI, Smooth UX
+- 🎧 Vibes → coding at night with anime lofi
 
 ---
 
-## 🛠️ Tech Stack (Core)
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,react,js,tailwind,html,css,mysql,git,github,vscode&theme=dark" />
 </p>
@@ -31,9 +30,9 @@ Hi, I’m **Zallxupuu**, a calm, detail-oriented fullstack developer.
 ## 📊 GitHub Stats
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Zallxupuu&show_icons=true&hide_border=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Zallxupuu&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zallxupuu&layout=compact&hide_border=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zallxupuu&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 
 </div>
 
@@ -41,11 +40,11 @@ Hi, I’m **Zallxupuu**, a calm, detail-oriented fullstack developer.
 
 ## 🌸 Anime Aesthetic Corner
 <p align="center">
-  <img src="https://media.tenor.com/SQ7P3N6zCQ0AAAAC/anime-girl.gif" width="330" />
+  <img src="https://media.tenor.com/7N0I3Dkz2GkAAAAC/anime-girl.gif" width="330" />
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/Y3pZo7mBQ94AAAAC/anime-chill.gif" width="330" />
+  <img src="https://media.tenor.com/Bb0xcdv1CkEAAAAC/chill-anime.gif" width="330" />
 </p>
 
 ---
@@ -53,20 +52,21 @@ Hi, I’m **Zallxupuu**, a calm, detail-oriented fullstack developer.
 ## 🚀 Projects (Coming Soon)
 - 🔐 Laravel API Authentication  
 - ⚡ React Frontend consuming Laravel API  
-- 🎨 Tailwind UI Components  
-- 🌙 Fullstack Mini Projects with clean architecture  
+- 🌙 Fullstack minimalist projects  
 
 ---
 
 ## 🌐 Connect
 <p align="left">
-  <a href="https://github.com/Zallxupuu"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/></a>
+  <a href="https://github.com/Zallxupuu">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Build quietly. Improve consistently.”</i>  
+  <i>“Build quietly. Improve consistently.”</i>
   <br><br>
   <img src="https://media.tenor.com/fA7H-yKBdNMAAAAC/anime-cat.gif" width="160" />
 </p>
