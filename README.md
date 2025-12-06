@@ -14,24 +14,26 @@
 
 
 **Want to be Full-Stack Web Developer**  
-_Laravel · React · REST API · Clean Code Enthusiast_
+_Laravel | React | REST API | Web Enthusiast _
 
 ---
 
-### 🌙 About Me
+## 🌙 About Me
 
-In the liminal space between twilight and dawn, I write code.  
-Each line a brushstroke, each function a verse—  
-seeking elegance in simplicity, beauty in logic.
+Hi, I'm **Rizal** — a student from **SMK Bhina Karya** with a big dream of becoming a skilled **Web Developer**.  
+I'm currently learning Laravel, React, API architecture, and everything that helps me build beautiful and functional web apps.
 
-A developer wandering through frameworks and philosophies,  
-forever learning, forever evolving.  
-This is my journey. This is my craft.
+I love exploring new ideas, experimenting with code, and improving myself little by little every day.  
+Even as a student, I believe great things start small — one line of code at a time.
+
+I’m still growing, still learning, and still searching for inspiration…  
+but I’m determined to turn my passion into something real.
+
 ```javascript
 const developer = {
-  name: "Rizal A.K.A Jull",
+  name: "Rizal",
   currentFocus: "Building dreams with code",
-  mindset: "Amarte a ti mismo no es vanidad, es cordura."
+  mindset: "Sólo fracaso cuando dejo de intentarlo."
 };
 ```
 
