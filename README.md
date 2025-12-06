@@ -1,72 +1,72 @@
-<h1 align="center">Hi there, I'm Rizal 👋</h1>
+<h1 align="center">🌙 Welcome — Zallxupuu</h1>
 
 <p align="center">
-  💻 <b>Frontend Developer</b> | 🎨 <b>UI/UX Enthusiast</b> | ⚡ <b>Always Learning</b>
+  <img src="https://media.tenor.com/HLx6k1WZVJkAAAAC/chill-anime.gif" width="460" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3500&color=A8A9FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Laravel+%7C+React+%7C+API+Builder;Clean+Code+Enjoyer;Dark+Minimalist+Vibes+🌙" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🖤 About Me
+Hi, I’m **Zallxupuu**, a calm, detail-oriented fullstack developer.
 
-- 🌱 Currently learning **React.js**, **Tailwind CSS**, and **Laravel API integration**
-- 💼 Building mini projects to improve my **frontend and API skills**
-- 🚀 Passionate about creating **clean, responsive, and user-friendly web apps**
-- 🎯 Goal: Become a **Full Stack Developer**
+- 🌙 Main Stack → **Laravel (API)** & **ReactJS**
+- 🛠 Backend Focus → Authentication, Middleware, API Tokens
+- 🎨 Frontend Focus → Tailwind, Minimal UI, Smooth animations
+- 🧩 Favorite flow → “Backend API → React Frontend”
+- 🎧 Vibes → Dark room, anime lo-fi, clean code energy
 
 ---
 
-### 🔨 Tech Stack
-
+## 🛠️ Tech Stack (Core)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,js,tailwind,html,css,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-### 💼 Featured Project
+## 📊 GitHub Stats
+<div align="center">
 
-#### 🧾 **Frontend Pegawai App**
-> A simple CRUD web app built with React.js, Tailwind CSS, and Laravel REST API.  
-> Features: Add, view, and manage employee data in a modern UI.
+![Stats](https://github-readme-stats.vercel.app/api?username=Zallxupuu&show_icons=true&hide_border=true&theme=tokyonight)
 
-🔗 **Demo (coming soon)**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zallxupuu&layout=compact&hide_border=true&theme=tokyonight)
+
+</div>
 
 ---
 
-### 📈 GitHub Stats
-
+## 🌸 Anime Aesthetic Corner
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zallxupuu&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zallxupuu&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://media.tenor.com/SQ7P3N6zCQ0AAAAC/anime-girl.gif" width="330" />
 </p>
 
-## 🔥 GitHub Commit Graph
-
-  ![Commit activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zallxupuu&theme=tokyo-night)
-
+<p align="center">
+  <img src="https://media.tenor.com/Y3pZo7mBQ94AAAAC/anime-chill.gif" width="330" />
+</p>
 
 ---
 
-### ☕ Let's Connect!
+## 🚀 Projects (Coming Soon)
+- 🔐 Laravel API Authentication  
+- ⚡ React Frontend consuming Laravel API  
+- 🎨 Tailwind UI Components  
+- 🌙 Fullstack Mini Projects with clean architecture  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:zallrpl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/sunnyset.k" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-  </a>
+---
+
+## 🌐 Connect
+<p align="left">
+  <a href="https://github.com/Zallxupuu"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zallxupuu&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <i>“Code is like humor — when you have to explain it, it’s bad.”</i> 😄
+  <i>“Build quietly. Improve consistently.”</i>  
+  <br><br>
+  <img src="https://media.tenor.com/fA7H-yKBdNMAAAAC/anime-cat.gif" width="160" />
 </p>
