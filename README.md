@@ -14,7 +14,7 @@
 
 
 **Want to be Full-Stack Web Developer**  
-_Laravel | React | REST API | Web Enthusiast _
+_Laravel | React | REST API | Web Enthusiast_
 
 ---
 
