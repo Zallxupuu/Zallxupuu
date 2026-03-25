@@ -92,8 +92,5 @@ const developer = {
 
 ---
 <strong>Thanks for visiting my profile! 🌙</strong>  
-<p align="center">
-<img src="./.github/workflows/Kaori.gif" width="720" height="300"/>
-</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%">
 </div>
