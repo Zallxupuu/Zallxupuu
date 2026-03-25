@@ -50,7 +50,7 @@ const developer = {
 
 ### 🧰 Tools & Environment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,bun,ubuntu,git,claude" height="50" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,ubuntu,git,claude,terminal,linux" height="50" />
 </p>
 
 ---
