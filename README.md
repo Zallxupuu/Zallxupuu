@@ -55,22 +55,6 @@ const developer = {
 
 ---
 
-## 🌌 Crafting Myself Into a Better Programmer  
-> *Learning in public • searching for inspiration • growing 1% with every commit*
-
-- 🧠 **Stay Curious** — ask *“why?”* before *“how?”*.  
-- ⚡ **Keep Learning** — exploring Laravel, React, clean API architecture, and new ideas.  
-- 🧩 **Solve Problems, Not Syntax** — understand the flow, not just the code.  
-- 🔍 **Build in Public** — small projects, experiments, failures… all part of the journey.  
-- 🎯 **Clean, Readable, Maintainable** — clarity is more powerful than complexity.  
-- 🌱 **Inspired by Progress** — bugs, errors, late-night debugging… fuel for improvement.  
-
-> ✦ *Code isn’t just written — it evolves.*  
-> ✦ *And so do I.*
-
-
----
-
 ### 📊 GitHub Stats
 
 [![Zallxupuu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zallxupuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9b1d6&icon_color=7aa2f7&text_color=c0caf5)](https://github.com/Zallxupuu)
