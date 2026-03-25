@@ -40,7 +40,7 @@ const developer = {
 
 ### ⭐ Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,next,tailwindcss,html,css" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwindcss,html,css" height="50" />
 </p>
 
 ### 🗃️ Frontend Tools
@@ -50,7 +50,7 @@ const developer = {
 
 ### 🧰 Tools & Environment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,ubuntu,git,bash,linux" height="50" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma,ubuntu,git,bash,linux" height="50" />
 </p>
 
 ---
