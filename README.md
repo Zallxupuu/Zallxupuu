@@ -12,16 +12,12 @@
 ![Followers](https://img.shields.io/github/followers/Zallxupuu?style=flat-square&color=7aa2f7&labelColor=0d1117)
 ![Stars](https://img.shields.io/github/stars/Zallxupuu?style=flat-square&color=7aa2f7&labelColor=0d1117)
 
-
-**Want to be Full-Stack Web Developer**  
-_Laravel | React | REST API | Web Enthusiast_
-
 ---
 
 ## 🌙 About Me
 
 Hi, I'm **Rizal** — a student from **SMK Bhina Karya** with a big dream of becoming a skilled **Web Developer**.  
-I'm currently learning Laravel, React, API architecture, and everything that helps me build beautiful and functional web apps.
+I'm currently learning Nextjs, git, Styled Components, and everything that helps me build beautiful and functional web apps.
 
 I love exploring new ideas, experimenting with code, and improving myself little by little every day.  
 Even as a student, I believe great things start small — one line of code at a time.
@@ -44,17 +40,17 @@ const developer = {
 
 ### ⭐ Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,tailwindcss,html,css" height="50" />
+  <img src="https://skillicons.dev/icons?i=js,react,next,tailwindcss,html,css" height="50" />
 </p>
 
-### 🗃️ Database & Backend Tools
+### 🗃️ Frontend Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="50" />
+  <img src="https://skillicons.dev/icons?i=bun,nodejs" height="50" />
 </p>
 
 ### 🧰 Tools & Environment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,postman,ubuntu" height="50" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,bun,ubuntu,git,claude" height="50" />
 </p>
 
 ---
