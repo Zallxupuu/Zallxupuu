@@ -1,80 +1,172 @@
-<div align="center">
-  
-  <h2>Hi there, i'm Rizal</h2>
-  <p><em>A child who dreams of being able to do everything</em></p>
+<!-- ========================================= -->
+<!--            HEADER SECTION                -->
+<!-- ========================================= -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Rizal+Ahmad+Muladi;Welcome+to+my+GitHub+Profile;Future+Fullstack+Developer+🚀" />
+</h1>
 
 <p align="center">
-<img src="./.github/workflows/Komi.gif" width="720" height="300"/>
+  <img src="https://img.shields.io/badge/Student-SMK%20BHINA%20KARYA%20KARANGANYAR-00F7FF?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-JavaScript%20%7C%20Next.js%20%7C%20Frameworks-ff00ff?style=for-the-badge" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zallxupuu&color=7aa2f7&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Zallxupuu?style=flat-square&color=7aa2f7&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/Zallxupuu?style=flat-square&color=7aa2f7&labelColor=0d1117)
+---
+
+<!-- ========================================= -->
+<!--            ABOUT ME                       -->
+<!-- ========================================= -->
+
+<div align="center">
+
+## ✨ About Me
+
+💻 **GitHub:** `Zallxupuu`  
+🎓 **Student at:** SMK BHINA KARYA KARANGANYAR  
+📚 **Currently Learning:** JavaScript, Next.js & Modern Frameworks  
+🚀 **Goal:** Become a Professional Fullstack Developer  
+🌱 **Always Exploring New Technologies**
+
+</div>
 
 ---
 
-## 🌙 About Me
-
-Hi, I'm **Rizal** — a student from **SMK Bhina Karya** with a big dream of becoming a skilled **Web Developer**.  
-I'm currently learning Nextjs, git, Styled Components, and everything that helps me build beautiful and functional web apps.
-
-I love exploring new ideas, experimenting with code, and improving myself little by little every day.  
-Even as a student, I believe great things start small — one line of code at a time.
-
-I’m still growing, still learning, and still searching for inspiration…  
-but I’m determined to turn my passion into something real.
-
-```javascript
-const developer = {
-  name: "Rizal",
-  currentFocus: "Building dreams with code",
-  mindset: "Sólo fracaso cuando dejo de intentarlo."
-};
-```
-
-
----
+<!-- ========================================= -->
+<!--            TECH STACK                     -->
+<!-- ========================================= -->
 
 ## 🛠️ Tech Stack & Tools
 
-### ⭐ Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwindcss,html,css" height="50" />
-</p>
+<div align="center">
 
-### 🗃️ Frontend Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bun,nodejs" height="50" />
-</p>
+### 🚀 Languages
 
-### 🧰 Tools & Environment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vim,figma,arch,git,bash,linux" height="50" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ Frameworks & Libraries
 
-[![Zallxupuu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zallxupuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9b1d6&icon_color=7aa2f7&text_color=c0caf5)](https://github.com/Zallxupuu)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zallxupuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9b1d6&text_color=c0caf5)](https://github.com/Zallxupuu)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Zallxupuu&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=f7768e&currStreakLabel=a9b1d6)](https://github.com/Zallxupuu)
-
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,styledcomponents" />
 
 ---
 
-## 🔗 Connect with Me
+### 🧰 Tools & Editors
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zallxupuu)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sunnyset.k)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@zskyfall.low)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Rizallulz)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zrill__)
+<img src="https://skillicons.dev/icons?i=vscode,git,github,bun,bash" />
 
 ---
-<strong>Thanks for visiting my profile! 🌙</strong>  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%">
+
+### 🐧 Linux Distros
+
+<img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-Fedora-87CF3E?style=for-the-badge&logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--            GITHUB STATS                  -->
+<!-- ========================================= -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Zallxupuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zallxupuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Zallxupuu&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--            PROJECT SHOWCASE              -->
+<!-- ========================================= -->
+
+## 🌐 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 🔧 Tech | 🌍 Link |
+|-----------|----------|---------|
+| Portfolio Website | React | [View Project](#) |
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--            CONTRIBUTION GRAPH            -->
+<!-- ========================================= -->
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zallxupuu&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--            CONNECT SECTION               -->
+<!-- ========================================= -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Tiktok-00F7FF?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+
+<a href="https://discordapp.com/users/1304363925026115585">
+<img src="https://img.shields.io/badge/Discord-ff0000?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--            QUOTE SECTION                 -->
+<!-- ========================================= -->
+
+<div align="center">
+
+## 💡 Developer Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--            FOOTER                        -->
+<!-- ========================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:ff00ff&height=120&section=footer"/>
+
+✨ **"Code. Learn. Build. Repeat."** ✨  
+
 </div>
