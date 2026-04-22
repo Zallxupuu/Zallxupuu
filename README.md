@@ -12,7 +12,7 @@ Hi, I'm <a href="https://github.com/Zallxupuu"> Rizal Ahmad Muladi </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<img align="left" src="https://camo.githubusercontent.com/79c0410bf0683e6d0fc0a09ce3fb76b1fb6811f37867b5485feb504d38990e1f/68747470733a2f2f632e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966" width="265" height="270" />
+<img align="left" src=".github/workflows/dedc2170-513f-404f-a8a1-d45ca5a7fc40.jpg" width="265" height="270" />
 
 ```bash
 > whoami
