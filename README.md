@@ -12,7 +12,7 @@ Hi, I'm <a href="https://github.com/Zallxupuu">Rizal Ahmad Muladi</a>
 
 <br>
 
-<img align="left" src=".github/workflows/dedc2170-513f-404f-a8a1-d45ca5a7fc40.jpg" width="265" height="270" />
+<img align="left" width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/a42dce20-a4bb-4021-951e-6f78faef7791" />
 
 ```bash
 > whoami
